@@ -15,8 +15,8 @@ import java.util.Random;
 public class SortComparison {
     
     static final int FIRSTINPUTSIZE = 1000;
-    static final int SECONDINPUTSIZE = 100_000;
-    static final int THRIDINPUTSIZE = 1_000_000;
+    static final int SECONDINPUTSIZE = 100000;
+    static final int THRIDINPUTSIZE = 1000000;
     
     private static Integer[] initialFirstArray(){
         Random randomer = new Random();
